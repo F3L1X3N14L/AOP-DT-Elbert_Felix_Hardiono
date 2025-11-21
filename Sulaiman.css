@@ -60,7 +60,7 @@ body{
     background-image: linear-gradient(135deg,#494256, #9260e3, #00457a);
 	background-size:cover;
     background-attachment: fixed;
-	cursor: url("Images/tiger.png"), default;
+	cursor: url("Images/tiger.cur"), default;
 }
 
 /*dikerjakan oleh Elbert*/
@@ -142,3 +142,4 @@ ol {
 	list-style: circle;
 	text-align: left;
 }
+
