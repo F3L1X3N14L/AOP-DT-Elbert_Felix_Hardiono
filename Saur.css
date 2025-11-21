@@ -11,7 +11,7 @@ body { /*dikerjakan oleh Elbert*/
     justify-content: center;
     align-items:center;
     background-image: linear-gradient(135deg,#494256, #9260e3, #00457a);
-    cursor: url("Images/tiger.png"), default;
+    cursor: url("Images/tiger.cur"), default;
 }
 
 body img{ /*dikerjakan oleh Elbert*/
@@ -70,3 +70,4 @@ input {/*dikerjakan oleh Michael*/
     font-family: sans-serif;
     font-weight: 700;
 }
+
